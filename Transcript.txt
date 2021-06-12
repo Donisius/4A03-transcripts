@@ -1,0 +1,706 @@
+Dr. Wassyng
+ 
+ Q1. OK, so yeah, first question. From your perspective, what role has engineering academia played and influencing
+industry, and how do you see that changing, if at all, in the future? 
+ A1: OK, so I'm going to restrict myself to software, right? I
+can't comment on what's happened in mechanical or electrical. From my perspective, it�s gone in cycles. At the moment I think we're in
+a reasonable cycle where there is some interaction between academia and industry. About 10 years I would say it was just a huge gap
+between them and there was sort of mistrust on both sides. So I think the industry people thought that the academics were working on
+stuff that just wasn't interesting. Not real enough for them. And the academics thought that the people out in industry. Didn't know
+what were what the advances were in academia and just weren't using it. And they were both right. I used to talk about and say there
+wasn't a gulf. There was just a complete chasm. And I think that's unfortunate, and I think from my perspective I put most of the
+blame if I'm gonna assign blame on the academic side. Because I just don't think they� the pressures are different in academia. An
+attending they got the required brownie points for working on real problems. That might have changed a little bit. It helps that
+the funding is pretty much almost always in Canada. You can't get funding real big funding unless you're working with an industry
+partner. I think that helps. It's not the whole answer. Uhm? But I think it's improved somewhat. I was pretty upset because I spent
+15-16 years out of academia working in industry. And I thought I would come back to an academic environment where I could use what
+I'd found out. What are the real problems in industry and then get all my smart colleagues to work on those? Wasn't as simple as I was
+anticipating the reward structure in academia is definitely different. Let's just put it that way. 
+ 
+ Q2. a) You were talking about
+I guess the more recent prevalence of industry related funding. I�m kind of ignorant personally on this, but in the faculty now like
+is there really any projects left that are more �pure research�? Or are they pretty much all industry related projects by now? 
+ A2:
+a) The big ones are pretty much only industry related. I answer has a thing called the Discovery Grant. Which is usually something
+personal that you apply for. I mean, it's not a lot of money, it's maybe 30 K year or something and it's something to support your
+own personal. Work priorities and after support a few students, not too many. But there's no necessary. There's no industry partner
+on that, so it can be much more theoretical. 
+ Q2. b) OK, yeah, and that that dynamic has always has that always been the case or how
+long ago did it kind of start shifting? 
+ A2. b) No, it's it's been like that for a long time, OK? I would say that way things are
+going now and the industrial projects that you get now, especially in the software arena... They better than before in terms of they
+really do try and solve the industry problems. Previously it was a way of getting money and recognition both for the industry and I
+think for the academics. I know of some projects in the early days where some industry partners just weren�t very involved in in what
+was happening in the research project. I much prefer it when our industry partners are very heavily involved because it keeps your
+feet to the fire.
+ Q3. Can you think of an example where you were surprised by how engineering was conducted in industry? So maybe
+this could be something that industry does well, that's not necessarily considered best practice in academia. 
+ A3: So. I I've got
+examples on both sides. My example from the OPG days where I spend 1314 years working on their own projects with them, real sasfety
+critical stuff and it was. I would say research more in the beginning, then development 'cause we had to do a whole lot of research to
+actually work out what to do. The eye opener for me was I was working with. I would say real first class engineers. And. They made us
+think about things. Even when we were designing the processes that we were going to be using to develop software for safety critical
+projects. They did a much better job of integrating the different parts of the process so that you landed up with something that solve
+the whole problem. When academics looked at the equivalent thing, if you take for example very simple things like requirements and
+design. Hey, the guy ran the project that RPG insisted to know how the requirements you developed in the requirements phase would be
+useful in the design phase and what the links would be. It's obvious, right? I accept that when you have a look at academic research
+on that, requirements were done as an island unto itself for a long time, right? Not worrying about how it was going to be used in
+the next phase, which was. The design. So I think there's a an example we're working. With engineers who knew what the real problems
+were, what they expected from what you developed in terms of processes and sign. Just was much better than what I was seeing in on
+the academic side. On the other hand, if you look at other experiences. I've been amazed that somehow industry has just neglected
+requirements to the extent that it has. If I had to choose one thing which is gonna be absolutely of paramount importance, it would
+be requirements. You don't get the requirements right, doesn't matter how good you are. You're not gonna build the right system. And
+I would say. To a large extent. I think the people out in industry are just ignoring requirements. Darling, that was my biggest
+surprise. I've even had had people tell me why they were ignoring them. I just didn't believe there. Their reasons. Excellent thank
+you. OK, I do have a story that would demonstrate that, by the way, 'cause. Uhm? My son is in computing. So he he went through computer
+science at Waterloo. Uh. And was very interested in the Co-op then. Primarily why went to Waterloo in the beginning? There's a lot of
+other places. Didn't do carp as well as they were doing at that stage. Now I think we do it better, but that's personal. He got an. A
+work job out in BC and she was very happy about it and go to Vancouver and spend four months working there for a big company. And he
+called me to say they want me to do a whole lot of testing. What should I be looking for? I said well, go to your manager and get
+the requirements and then you can start looking at Test cases and so on. And he called me back and said, what do I do when there
+aren't any requirements? And this is an application that sells for hundreds of thousands of dollars. OK. My advice was come home,
+but he didn't wanna do that. So if you think of. A situation like that you don't have requirements and you asking someone to test the
+application. What the heck are you asking them to do? 
+ Q4. I was really interested like initially whether like the importance that
+placed on requirements and academics is overstated or understated. But you already kind of answered that by saying, in industry it's
+kind of understated right, like not enough companies are using it. So I guess like you mentioned, some companies have reasons as to
+why they just skip out on that on that requirements phase. What are some of those reasons? 
+ A4: The way it was explained to me as the
+requirements are too volatile, they change too quickly. Therefore there's no point in writing them down. So do you think it's like it's
+it ends up costing them more just because like they didn't do? So. Yeah, it's really a fallacious argument because one of the things,
+even if you do requirements and you do them well. You know that there's a a real thing called requirements creep. Which is when the
+requirements change and you can't keep up with it. But the way most people have learned to deal with that, if they deal with it well,
+is freeze it at some stage. You say OK, these are the requirements of the system that I am going to build now. If you really know
+enough, you can do what pawn acid to do, which is information hiding. And you can take all the the new requirements that you've got
+as likely changes. 'cause you know, there really are likely. In fact, you wanted to do them already, but you can't do them yet. And
+if you build your software so that it takes into account, those likely changes. When you come back to the next version of this thing,
+putting in the new requirements, you can implement them without destroying your system. If you can't do that, we've we've got a long
+history and software of every time we make changes, we screw it all up. You just look at the banking accidents that have happened
+in the last 10-15 years. Very well reported there was RBC I think had a situation where you couldn't make any transactions at one
+stage. After an upgrade to their system, that means that people couldn't pay their mortgages. All sorts of things right? Complete
+disaster. And of course it came after an upgrade. So we know it happens. So doing a better job on the requirements. And taking into
+account things that are likely to change and then doing a software design that will let you make those changes without screwing
+everything up. Just saves you a bunch of money eventually as well as you have something that's reliable. So. 
+ Q5. Yeah, that makes
+sense. Just to follow up on that. So like the importance is understated in industry, but it's drilled into our heads within like
+software programs - how can we bring it more into industry?
+ A5: So my wish on this is that as you guys get out there, it's gonna
+change. OK, that's what I'm hoping for now. I'm not telling you to fight with your manager. OK, that's not a good way to advance in a
+company. But if your manager isn't aware of how important their requirements are. Maybe there are ways of just gradually convincing
+that person that it's cost effective. Actually, it might mean that you do a little bit of extra work at some stage, saying look if
+we had put down these requirements, this wouldn't have happened. OK, so there are things that you can do within the company if the
+manager involved is old school and just doesn't want to do the upfront cost of requirements, there are still things that you can do
+politely. And keep your job. I don't want to see you guys get fired, but my hope for the future is people like you. Because I think
+you are convinced that it's a good way to do it, and gradually you get into the positions where you call the shots. So I don't have
+anything smarter than that. 
+ Q6 a) So recently Mac been pushing a lot for experiential education, so this is for more labs and as
+well as 1P13 and all the things that are going to be rolling out with that shortly. What's your perspective on all the experiential
+�
+ A6 a): Good if it's done properly. Really bad if it's not. So. I think you said you were working on 1P13 right? That's right. So
+there are ways of doing 1P13, which I think will work out well. There are other choices that we could make that might land up in
+disaster. I will wait and see what the end result is, but I think it's going pretty well. I think engineering, and in particular I
+can talk about software engineering. It's not something that you just talk about. You have to do it. You don't know it until you do
+it OK, and I don't think there's any alternative but to get your hands dirty and actually do the stuff. Why do we learn? I think it
+is different from the way a lot of academics have tried to teach the subjects. If you ever look at the people doing the teaching,
+they quite often teach the way they've been taught. Which is unfortunate because it means we just continue the same thing. The other
+thing is the people in software who get into academic positions. A typically very good at abstraction. That's what made them good
+as academics and good in software, right? If you think of teaching. My philosophy is you wanna show examples and then build up from
+the small examples to a general idea. The people who are good at abstraction tend to present these things as show you the general
+case. And then you have to show them that you can actually distill that information and solve some examples. I don't think that's a
+great way of learning for most people. So there there's education, research and things like that, I think. Most of us learn better
+from example and then generalize it. I've seen that work in practice. I believe that for most people that's useful. I think showing
+people are getting them involved in experiential projects where they actually do something and then tell them afterwards you might
+have had trouble with it. OK, well guess what. We've got techniques for solving that. So we ran something when I was in Minnesota. We
+had a very small little group there. Funnily enough, three of the four of us were from South Africa. Probably the only three South
+Africans in Minnesota. So. We ran something where we taught subjects pretty much in an experiential way, very. Focused what we would
+do is if I wanted a teacher about project planning, for instance. One had a teacher about gunshots and critical path and things like
+that didn't come in and teach you the theory. And then say OK, now go and solve this problem. What we did is we came into the class,
+divided the class up into small groups and then gave them a problem to solve. Didn't tell them what the subject matter was. Didn't
+mention critical path or anything else, just said so they still exist. Remember the example for that one? It was called food for
+thought. We had a recipe for cooking a meal and you had to get it done before you went off to the theater, so there was a deadline
+for when you wanted it done. You had resources in terms of pots. So we just gave them the problem. And let them spend the whole 50
+minutes talking to each other and coming up with solutions to that problem. Now when we came back to them afterwards, we could show
+them why the techniques that have been built to do critical path planning solved some of the problems that that experienced first
+hand. Some marrying the experiential side with the theory side I think and work fantastically, but you have to do both. So the
+experiential stuff I think, comes first surprisingly. I think we cheat in academia in the way we teach. Why people still struggle
+when they get out in the real world is if I. Take something simple like I'm gonna teach you mathematics. I'm gonna teach your
+calculus and I choose a particular topic in calculus. And I go through the theory and then I give you 17 examples to solve. You
+didn't have to think what you were gonna use to solve those examples. You knew exactly what you were gonna do. It's what I just
+taught you. But the most difficult part of solving problems out in the real world is working out what the hell you want to use to
+solve the problem. So I just think we teach those things in a way that doesn't help you get it done when you come out. I just think
+the experiential stuff I think can be very powerful. Just have to make sure we do it well.
+ Q6 b) Who do you think is pushing for all
+the experiential learning? Do you think it's maybe the students, academia, like professors, industry? Where do you think this drive is
+coming from? 
+ A6 b): OK, it's very simple. The Dean is pushing. OK, very very clear, and I think he�s right. So I think this one's
+a very simple one to answer. They do a director of experiential learning. He�s a fantastic guy. Andre Philion is terrific. I've been
+working with him on Capstone and talking about things. I have a lot of respect for him. I think he will do the right things. I think
+he�s a great addition to the university. I couldn't have picked a better person to do this. Same terms of where we going with it,
+a lot of trust in Andre� has been terrific. Then trying to get everyone together to make a capstone that is going to eventually be
+engineering wide. And little baby steps, right? So we've been going along. I think he has the right ideas. I think he has the right
+political touch, but he doesn't just enforce things. He gets a grassroots adherence to it. So I think the initial push came from the
+Dean and I think he's chosen a really good person to continue the push. 
+ Q6 c) I�m gonna jump in here I know. Like you said, it can
+be excellent if it's done properly and it just made me think of Doctor Mohrenschildt, who�s also in your faculty - I was listening to
+his first year introduction to Mechatronics back in, I think it was March or something, and there was a little bit in there where he
+was lamenting the fact that they were trying to put in the second year project course and these new kind of initiatives. I think he
+was roughly just saying that you know it gives us less time to cover the important fundamentals. So I guess as a broader question,
+what challenges do you think that poses for undergraduate learning, and what do you mean by "if it's done well�? What can go wrong?
+A6 c): OK, put me on the spot. So I think you're gonna get lots of different opinions like Martin�s [Dr. Mohrenschildt]. And I
+think there's gonna be valid aspects to all of them. There's not gonna be just one person's right about everything, right? There's
+a history also of education, which is a little unfortunate. That it's the educators who stop the advances in education. We get used
+to doing things I in a particular way. We also don't get brownie points for reinventing ways of doing it right. So. Even if you go
+back to school education, if you look at the people who fought against having ballpoint pens come into schools. And getting rid of
+the inkwells and things like that. It was the educators themselves, right? So all sorts of weird fights over the years. I think it
+goes back to chalk and slate, by the way. So. There's always you've invested so much in what you're doing and you most people try
+really hard to do a good job of their teaching. It's not because they don't want to teach well, they're actually trying, and they've
+developed some techniques that they think work. So now telling them that all that's gonna change is pretty rough, right? 'cause apart
+from building this up over years, it means extra work in changing. And that extra work is not necessarily going to be rewarded. It's
+just going to be required. So there's definitely gonna be push back. In terms of what would be bad in the experiential learning? I
+think if it's not combined with the theory part so that it's clear to people why you're doing something� I think the experiential
+stuff is useful for the reason that I gave earlier. It shows you the problems. There's no better way of finding out what's difficult
+than try it yourself. Struggling through your first programming language, you learn all sorts of things about it, right? Doing the
+next one is not the same challenge because you've already done some of that. Depending on the language is obviously. But I think
+drawing the inferences for the students in the beginning, not just leaving them to think about it themselves is important. I think we
+would have failed in the way we taught back in Minnesota if we hadn't come in and said OK, you face this problem. We watched you. You
+didn't know how to solve this part. You told us it was difficult. What if I told you could do this? So I think you have to relate
+their experiences to how you would actually solve it because. The way we make progress is so that. Not everyone asked to repeat all
+the lessons we learned previously, right? You build on other people�s knowledge. So it's up to me if I've learned something. I want
+you to realize why it's important and what's the difficult thing, and then I'll tell you one way of solving it. What's really nice
+about it sometimes is if you've gone through this. And you've had your own hard lessons. You might not even like my solution. You
+might have something better in mind and we make even more progress then. So I think without putting in that link afterwards. Are we
+setting ourselves up for failure? It's not enough just to do hands on and then walk away. And the two have to go together. And to
+Martin's point. You are gonna have to give up something in the curriculum. Because the work that we did back in Minnesota when we did
+this technique, we had to cut down what we were teaching. We couldn't teach the same amount of stuff that we did before. Because there
+wasn't enough time to do it. Yeah no, that makes sense. 
+ Q7. So what qualities do you think are beneficial to studying engineering
+theory in academia, and if those qualities needed are different like differ in applying engineering principles in practice? 
+ A7:
+Again related to the software. I think that if you learn the principles in the software courses, it will actually save you a ton
+of time out in the real world. OK, but I think that our examples in academia need to be a little bit more complex sometimes and
+more real. Hey, which is why I like the experiential side because maybe you can achieve some of that in a project where you can't
+do it just as a class exercise or something. So I think we have to mix them. You can't do that all the time because then again you
+won't cover the material. But in terms of skills that are carried over into industry. Uhm? I think we're actually doing reasonably
+well these days in terms of the principles that you get in your academic courses. Are extremely usable and useful. Adding industry
+whether you get allowed to do it out in industry as a different question. OK, depending on what you're doing. Queso. I think that
+if you. A lot of things come back to requirements. Do you know why people oldstyle managers don't wanna do the requirements well
+enough? Never thought about that apart from it being volatile. So what normally counts? Money, right? So a lot of projects get funded
+where they ramp up. OK, well that's exactly the opposite of what you're gonna do. If you do good requirements, you need people in
+the beginning to do a good job of the requirements, which means there's no ramping up and you start right from the beginning. So the
+old managerial style of ramp up if the project seems to be working. Just not a good way of getting requirements done. 
+ Q8. There is
+always this expectation for students to have certain precision in their documentation, and so I do think that there's more emphasis
+or less emphasis when it comes to industry?
+ A8: So how the heck are you gonna believe me? So. You hit a solid point there because I
+think I've developed a reputation for wanting more documentation from the students than they ever want to do. Guess where that comes
+from? Comes from industry. What are data few years ago is for the capstone. I had some students previous students who volunteered
+to come back to talk to the class. About how useful it was to learn to do the documentation, 'cause that's what they were doing out
+in the real world. And actually they were getting promoted because they could do it better than the people around them. So Mark and
+I had this discussion long ago. Mark also worked on the Darlington stuff. I knew Michael offered before he before either of us came
+to to Mac K. He came as a fresh set of newly graduated. PhD to work on some of the project. Then discovered he didn't like the the
+real-world schedules, so came back to academia. But Mark and I had a discussion about this when we were planning Capstone. 2009 or
+10. 'cause I was doing it and then when I was on sabbatical he did it and we decided at that stage that one of the things we wanted
+was adequate documentation because professionally that's one of the things that will really help. To say that it's popular would
+be lying. Sardonic people, I don't think students realize the the good side of it. The beginning to change a little bit. And that
+some of the groups have realized that it's a way of keeping everyone in the group. Knowledgeable about what's happening on their
+project. And that's helped and it, funnily enough, it helped more like in this last year and previously just because of COVID. So
+the documentation seems to become a little bit more important. I'm. The push really is from industry, not from academia. Academia
+does completely different documentation. So my motivation for doing it in Capstone, and 3K, but mainly Capstone, was purely because
+that's what you need to do in an industry. In in the good ones, it doesn't mean that every company does that and. Unfortunately, if
+you have a look at the original Agile manifesto. It didn't try and get rid of documentation. It's what's happened in industry and the
+way people look at agile now is a way of not doing documentation, OK? And I guess I'm too old to to change, but if you have a look
+at what destroys projects. It's bad communication between the team members and one of the ways that you can improve that is having
+really good documents. And the good companies know that, and they insist on it. Home. Safe, I show you the documents from OPG. They
+don't look anything like the documents you do in academia. Much more rigid, much more detailed. 20 pages of revision history because
+it's important to know what's been changed and so and they've learned they've learned all this the hard way, right? We even had a
+project at that OPG to try and go back and find the rationale for some of the decisions that were made so that we could put them in
+the documents. And the outcome of their project was we couldn't find the rationale. Because people leave the company all sorts of
+things once it if it's not written down in some way, it's gone. Doesn't take long. 
+ Q9. I have one last question, if that's OK? You
+emphasize the importance of requirements quite a bit throughout this interview. Like is there anything within the engineering design
+process that's even more expensive if you messed it up? Or is requirements just number one?
+ A9: So every step is important. Funnily
+enough in software. And people don't accept this when I say it, but the most trivial part of the software is the coding. OK, and
+you gonna find that you're at the stage now where what you're living through, you're gonna see the the coding parts probably
+disappear almost. Right, so if you look at the auto industry and the avionics industry, they don't do a heck of a lot of hand coded
+software. It's all generated through Simulink and so on. And the idea there is if you make good designs from your requirements and
+they�re detailed enough, we should be able to almost generate the software. We did that manually on the Darlington stuff, all the
+safety critical stuff. The designs were so detailed that are doing the actual coding was trivial, and the code itself was much better
+structured than when we did the code just starting from the code. OK, so I've got examples that I can show if the design was done
+using function tables. The code that you create is extremely well structured. Which means that testing and everything else becomes
+much much easier. OK, so. Yeah, I think. I would say that the requirements and the design if I'm talking about safety critical. And
+there's something that leads into requirements even that you do before you finished your requirements, and that's a hazard analysis, so
+we don't get a lot of chance to look at that in the undergrad curriculum. Actually, the course I'm doing now for BioMed, I put hazard
+analysis into that course. And I might bring it into future versions of 3K. Just because if you're talking about safety critical if
+you haven't got a hazard analysis, how do you know how to make this thing safe? So I would say there are things that are requirements,
+hazard analysis, design. Validation verification. All of these things are important. You can't skip on any of them. And the way the
+model driven world is going, it's gonna be a little bit different. 'cause I think what we'll do is we will. Put much more emphasis on
+verifying the tools. So that when the code is generated we know it's correct, correct being it's what the design said doesn't mean
+the design is correct. But we've got all sorts of tools that academics have developed primarily for looking at the requirements in
+a much more mathematical way. Which doesn't involve testing and testing as a problem because it's never complete. OK, so putting
+these things together I think will improve things. Play. I probably told you a story in three K about requirements. There's a guy
+by the name of John Rushby. There's a very well known. A person in software safety critical software works for a company called
+Sri International in California. And they do all sorts of things. They made PBS, which is a theorem prover that we use all the
+time. But they also made the first surgical robot, Davinci Robot, so all sorts of weird and wonderful things. His expertise is very
+much in avionics. And he didn't I. An analysis of all the accidents in Civil Aviation that were attributed to software errors. And
+he got a heck of a surprise. He's published it so you can look at it. Every single error attributed to software was a requirements
+era. It was not that the software didn't match the requirements as the requirements were wrong. 
+ 
+ 
+ Dr. Hassan
+ 
+ Second, see it
+once again to give you a little overview of what we're doing. So for our summer course for AO3, it's all about ethics and equity
+and all that good stuff. But we've been kind of exploring more differences in theory, So what they tell you to do versus what's
+actually best practice, like in professional scenarios in the workforce, all that good stuff. So so when you say theory, you're
+not talking about like theory as in like numerical theory, you're talking about best practices. Yeah, like how how things actually
+get done? Best practice, yeah. OK, awesome so yeah. So our first question or kind of discussion prompt most of these are going to be
+basically what we're taught in school or academics versus some sort of connection with industry. And yeah, something like that. 
+ 
+ 
+[Q1] So for this question, we know that Mac recently been pushing a lot for experiential education, clearly seen through �the pivot�
+and what's to come for the next few years. So who do you think is pushing for this movement? Is this more so from the school, or is
+the industry sort of asking for this?
+ [Q1 Answer] I don't think industry is necessarily asking for it, but they don't ask us for
+anything right? Like that. That's not really how that relationship works, and so I think a lot of it is coming from the broader�
+I don't think it's actually coming from either. I think that the university is responding to the broader trends in education and
+kind of the realization that students are asking for more engaging formats right, that you know if all you need is the content,
+you could go read a book. You can take an online course you know, and that's free, right? There's no reason to pay 15 grand a year
+or whatever it is that you pay. You know the real value in going to a good school. It is those hands on experiences like labs
+and things like that. And so the more of that we can offer, the more we can offer you good value for your tuition. And there's
+there's a lot of good educational research. Indicating that that doing hands-on work helps with retention. And and that you know,
+generally speaking, not necessarily that we were doing like a bad job before, or anything like that. But you know, when we have
+the flexibility to be able to offer lectures online and then do stuff hands on in the classroom, that seems to be you know, aligned
+with what we know about neuroscience and learning, whether or not that actually works the way that we're intending to. That's still
+an open question. 'cause these are still pretty new approaches, but that's the intention, right? Is that? It's not necessarily that
+they're learning anything different and said students are hopefully going to retain more of it. But we still don't know, yeah.
+ 
+ 
+[Q1 � part 2] Were there any barriers that you notice when we were implementing any of these new initiatives?
+ [Q1 � part 2 - Answer]
+I think that the biggest barrier is physical space, right and you know from your work in in 1P13 that if you have 1000 people right,
+and they all� you know a lot of times when we design courses we intend for everyone to be kind of doing the same thing at the same
+time. Well if you have 1000 people, it's really hard to have a thousand 3D printers lined up ready to go, or you know even 1000
+computers lined up and ready to go. You know getting that that logistical side of it and getting the physical space is in line with
+where they need to be because you know, we have lots and lots of lecture spaces on campus. We don't have as many hands on spaces,
+and you know, even just getting the right equipment in the right room at the right time is quite challenging, right? 
+ 
+ [Q2]
+So from your perspective, I guess this could be like an �either/or� scenario. Do you think that Engineering academia, so the sort
+of content we're giving to the students, is influencing the direction that the industry may be going? Or do you think that seeing
+what's happening in the industry is affecting what's being delivered to the students, and that dynamic changing academia?
+ [Q2 Answer]
+I mean, it's hard to say because like it is kind of an ecosystem, right? Everyone who's practicing engineering now came out of this
+system, right? So absolutely everyone who is currently practicing engineering was at one point where you are right. So you can't have
+a system that's composed 100% of people who came from that system and not have an effect on it, right? It's bound to happen, but in
+terms of the curriculum development and things like that. It's probably more likely that changes in industry and changes in particular
+technology availability that is more likely to affect us rather than us affecting industry. I mean, I think it's you know, especially
+on the curriculum side if you're talking about on the research side, then yeah, research does tend to flow out of the university,
+right? Like that's our product is research, but if you think about it from the instructional side, generally we would be kind of like
+consumers of industrial knowledge if that makes sense.
+ 
+ [Q3] So for your faculty specifically, among your colleagues and stuff,
+what extent does your faculty carry out industry related projects as compared to more �pure research� projects? 'cause I know a few
+professors in my department, computing and software, their projects are industry based and they're getting funding from there, and
+his grad students are almost like contractors to help them out. But as opposed to like kind of a �pure research� initiative where
+you apply for funding and stuff like that. So within your circle how would you describe that that dynamic?
+ [Q3 answer] Yeah, so I
+don't do any domain research at all, right? Because I'm a teaching Prof. But you know, I come from mechanical engineering, and so your
+observation about what's going on in computing and software is actually probably pretty accurate for mechanical engineering as well,
+just because of the work we tend to do, it tends to be very industrially oriented, right it's. All about design. Build test. It is kind
+of our cycle right? And so actually like when you look at the funding priorities from insert like the national. Funding organization,
+though those are very heavily biased towards industrially relevant research, and so it's like I don't know anyone who's doing
+purely scientific research in mechanical engineering because I don't. Know how you would possibly get it funded, right? Like given
+the way that answer is funding our domain right now. I mean, I'm sure that there's some things that are like a little bit exotic,
+but they will eventually turn into something, so the ambition is that even the exotics that will turn into something industrially
+relevant someday, right? Like that guy who won the Nobel Prize pretty recently, like at the time his work was really exotic. But
+now we have it all the time in the displays, right? And so. Yeah, like at one time it was like really kind of blue sky, but it still
+had an industrial application and so yeah as a mechanical engineer like the idea of completely theoretical research is very like I
+don't know. I guess I don't know anyone who does that.
+ 
+ [Q4] I'm not super familiar with sort of the graduate engineering side of
+things, so that's interesting here. Yeah, another thing I was wondering - if you can think of a time for yourself, where you were
+surprised by how some piece of engineering was conducted in industry, or finding out that some industry does something a certain
+way effectively that actually wouldn't really be considered �best practice� by the more academic side of things. Can you think of
+any examples of that?
+ [Q4 answer] Yeah, I mean when I was in the industry I was in forensic analysis, so as industries go it was
+very academically oriented. Like we wrote research papers. In house, a lot of our staff members had PHD's was pretty common so I may
+not be the best example because I went from working in a bit like I went from grad school to working in a very academic industry to
+back to grad school right? So I never really like left so to speak, but I I did obviously, but I you know I was always working with
+people who had that research orientation. Right, but I would say that one of the big differences between how we teach engineering
+and how industry operates is that when I was working in industry, I would have like probably 30 files on the go at at a time, like
+30 distinct clients distinct projects right at various stages of completion because doing forensic analysis it takes. Sometimes it
+takes years for things to work their way through the court system or to work their way through, like attempts at settlement and stuff
+like that. And so you wouldn't just. It's not like where in the academic instruction mode we give someone a project at 12 1/2 weeks
+later they hand in something that's normally complete that almost never happened to me in industry. So the only time it would happen
+would be if a client would call and they say, OK, we're going to court and we're inside of what they call the 60 day deadline. And
+there's a real rush on this, because if you don't get me your report to me within the next 60 days, it can't be served as the trial
+will be over. Right, like sometimes you would have like one of those real screaming rushes, but in general. There is a lot more
+simelton 80 in our work in industry compared to you know. Soon sit down and they're like Oh yeah, I've got six classes. Oh my God,
+that would be a very light load for me and industry right? But the contrast is that. And industry I was solving the same types of
+problems over and over again and like so that makes it much easier. Whereas in the academic world you could be taking six totally
+different classes, right? And they may have nothing to do with each other. That would also be really rare and industry right? Because
+the way that you develop your business is that you get specialized at something and you can do it efficiently. More so than someone
+else could write like you don't have to go back to first principles 'cause you already have the background data or the background
+tools to do it. You know, and I think that's the big difference, right? It is is that a lot of times you know you become much, much
+more specialized than you do in an undergraduate engineering degree. You're much more of a generalist, right?
+ 
+ 
+ [Q5] I was just
+wondering just through your experiences with either conducting research or being involved in an engineering project in industry -
+what have you found is the most crucial step to get right in the engineering design process? Like for example in my courses in software
+engineering I was taught that just identifying the right requirements for project is theoretically the most expensive step to get
+wrong 'cause everything builds up on that. I was just wondering what the most important step typically is in projects like in the
+field?
+ [Q5 answer] That is 100% accurate and I think it's accurate across pretty much every domain. My mom has a saying start the we
+mean to go and I feel it's. I say it like probably John probably hear me say it twice this week at work. And I think that it's it's
+totally accurate if you start a project off on the wrong foot with a client or with a misunderstanding, but what they want. Then
+your project is pretty much doomed and and you know and even doing forensic analysis, where we're actually making a product, we
+are product was analysis. We had a checklist at the very beginning of the client interaction to make sure that we were asking the
+right questions to make sure that we do that. When we went out into the field, like data that we were collecting the right data,
+right? Because you know, you can imagine that you know if you're going out. And you're examining a vehicle before it gets crushed,
+right? Once it gets crushed, the data is gone, right? So you have to get the that you have to collect the right data at that point
+'cause you only have the one crack at it. And if you don't collect the right data, your analysis will never be correct. And so if
+you get the beginning part of it wrong, or vice versa, you go out and you collect way too much data and you charge the client like a
+ton of money for a pretty simple issue, they're going to be really mad at you, right? And so if you have a misunderstanding of what
+the client wants. Or not exactly what they want, but with the client needs, which can be 2 totally different things. You know if
+you get that wrong, you're absolutely just up a Creek. You're really, you know. It's really, really hard to walk that back. 
+ 
+ [Q6]
+I just had another question as well. It goes back to us always being taught to be very precise within our courses with documentation
+and testing. I just wanted to know if professionals in the field don't go into as much detail, or if they go into more detail when it
+comes to documentation and testing, then we're taught in our courses.
+ [Q6 answer]  Yes, from my experience we understate how important
+documentation is in an academic program and part of the reason we do that is because academic, like we couldn't grade in that level of
+detail. It wouldn�t be impossible, right? Like we you know, and it also it wouldn't be a fair burden to put on students to have that
+level of documentation 'cause they don't have as many supports in place as we do an industry. But when everyone I know who works as
+an engineer is more aggressive with documentation than we are in the academic world and the reason why is that your documentation
+oftentimes has a legal implication, right? So if you're working on a big infrastructure project and something happens, you want
+to have all of your documentation really tight. Because if you don't and something goes wrong and the company is sued, then your
+company could be more liable than they ought to be, right? Like for example, I have a friend who works on kind of big infrastructure
+projects and there's a lawsuit, and everyone on the project is involved in the lawsuit and they're going through every email she sent
+on the project, right? And you know, and because she's a really thorough and detail oriented person, it's no stress. It's fine, their
+documentation was really tight, but if it hadn't been. Then then this small company would have been exposed to a lot of liability
+on this humongous lawsuit, and it was the same for me. You know, in my case, you know if I didn't take the right notes or whatever
+it is. When I was inspecting a vehicle and the case ultimately went to court. You know, then, how do I explain that right? And you
+know, Annefors and the other side can always subpoena my notes and you know, and also to like say that you're working on a project,
+say as a Co-op student or something like that, right? And you leave the company? Well, the project is probably carrying on for years
+after that, and on these really big projects you know, like mining explorations or you know building a bridge or whatever. You know,
+there's probably hundreds of people involved, right? And they all need to understand what's going on. You know, so you might think
+like, oh, I don't need to be all that precise with documentation, but everyone I know like you know, documentation is super super
+important and it was super important when I was working in industry right BN part of it was because I was working in a legal kind of
+field. But everyone I know who again works in those kind of big multinational projects are even more precise about it because again
+you don't want to put the company in a in a bad position, right? 
+ 
+ [Q7] Can you talk a little bit about what qualities you think
+are beneficial to studying engineering theory and, compared to qualities needed in effectively applying engineering principles in
+practice?
+ [Q7 answer] I think that it can differ right? Because it's totally possible to get through engineering school with pretty
+good grades and horrible people skills. It's you know, I'm sure you know people like that, right? It's much less likely that you're
+going to have a successful career in industry with those characteristics, right? You know, I think that students are very worried
+about making a technical mistake, and there are way more worried about that than they are. But the interpersonal side. But when I
+think about the problems, they kept my seniors up at night when I was. Those problems were almost always interpersonal, because
+generally speaking the technical work isn't that hard right? The technical work is pretty logical and and you can always reason
+it through. Or you can ask someone, or you can look it up, or you know, like the technical stuff is pretty easy to learn and you
+know, again, because most companies are pretty specialized. You have all the resources you need to do that technical work well,
+and you're doing the same kinds of technical work pretty commonly, so it's not as much of an intellectual stretch as an undergrad
+is where. You're trying to do all kinds of different technical work industry. You know, it feels easier. It's not because the work
+itself is easier, it's just that you become better at it and more specialized. But the big problems, the unsolvable problems are the
+interpersonal ones. And so if you have someone who has really good technical skills. And they can't get along with anyone. There
+they're in a really career limited position, right? They aren't going to get promoted. They aren't going to be able to climb the
+ladder. They may not even be able to stay in place very long because it's really rare to work alone on these projects, right? You
+know, again, like say that you're working on a big infrastructure project is not going to be just you right? Ultimately, you need
+to be able to communicate with others and work with others. And you know, it's something that we're trying to build in more of in
+engineering education, but I don't know that it's necessarily always getting through to students right? That that it's very rare
+to work as a sole practitioner as an engineer. And if you want to be on the really good projects, you have to be pretty good to
+work with, right? And being right isn't nearly enough because everyones right, you know. Basically, right like that's kind of the
+bare minimum. It is being correct, but you want to be correct. Pleasant to work with, right? Yeah, because you know those kinds of
+miscommunications can end up being really expensive, right? Because say that you make a client really upset, or you miscommunicate
+something and you promised something to the client that you can't deliver, or you know. Or you could deliver it, but it's gonna be
+really expensive for the company. You know, it might sound like kind of like a soft skill and nice to have, but those things have
+super serious consequences when you're communicating with the client. 
+ 
+ [Q8] I think we have one more question so that we can try
+and sneak in here. So earlier on you were talking about diversity within your faculty. So do you think there was enough diversity in
+your faculty in terms of like knowledge, skills and experience? And if so, do you know what the process that the faculty went through
+to get the diversity? (Dr. H: Like in terms of like diverse things that we study or diverse human beings?) I guess a little bit of
+everything� mainly towards like what we study, and in the backgrounds and experiences people are bringing to the table.
+ [Q8 answer]
+But even as well like everything we study, we have almost no control over, so you may not realize is that students but but because
+we are operating in Canada, all of our engineering schools are accredited, which means that we all have to follow pretty close to
+the same curriculum for a given program actually. Right now John, yeah, you been involved in it right where we have to. Basically,
+account for the fact that our students are getting however many units of something or another, right, and so to make sure that all
+of the engineering programs across Canada are nominally equivalent, and so you know we have some freedom in terms of the projects
+that we assign. But in terms of what we teach, it's actually quite tightly prescribed because we're trying to pack a lot into for
+a four year program, right? In terms of people you know, the hiring process is, you know most people stay. At a university for like
+30 years, right? And so a lot of times the die is cast 30 years ago in terms of who's involved in something right? And you know it
+like. Our hiring processes are very slow moving in academia, right? Because we just have a lot less turnover that we do in almost
+any other industry, you know, and so you know the I know that the faculty has been making some big efforts in terms of. In terms of
+recruiting, people of like either from minority backgrounds like I know that there's been some big pushes to try and find Aboriginal
+scholars. Or you know, people from underrepresented groups, whether it's LGBTQ or or. People who are black or people from abroad, but
+you know, on the other hand, it's kind of a pipeline problem, right? Like you know, the process to become someone with a PhD. There's
+a lot of privilege inherent in that. But you need to be able to take the time out like first of all you have to get through undergrad
+right? Which means spending four years not earning much money and spending a lot of tuition. So that's that's privileged there. And
+then there's the privilege of getting a PhD, which means spending four or five years, making pretty much no money, you know. And
+so if you're coming from a disadvantaged academic background, for example, that's not really open to you, right? So it's not as
+though. When we have these hiring processes that. That you know there's tons of diverse applicants that are coming and they're
+being turned away. That's not it at all. It's that they're not even meeting the basic qualifications, 'cause they haven't had the
+advantages that that other people have had, and so it's it takes a really long time to catch up because we have a low turnover and
+we got to get people in the pipeline. Basically in high school, right? We have to get people in high school, saying, yeah, I'd like
+to be an engineer. And then they have to get through undergrad. And I have. So yeah, I'd like to be a professor, you know. And so
+you know, I think it's a. It's a really long time scale. I think everyone is doing their their bast, you know to get diverse people
+in the room. But it's certainly not a quick fix. It's you know, it's a really substantial undertaking. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dr. Jake
+Nease
+ 
+ [Q1] You probably start Michael, it'll pop up in a second. OK, yeah, so I guess. First thing is if you could just talk a
+little bit about Mac like has pushed a lot of experiential education initiatives and we just want to know who's pushing for this
+movement. If it's from the academic or industry side and you know what barriers there are to like implementing these initiatives? 
+[Q1A]Yeah, that's fair. So so for sure this is something that should be pretty clear. I mean, John TS1P13, which is supposed to be an
+experiential learning class. I think the from my perspective and I don't really know what the stakeholders have saved the first year
+or the Faculty of engineering level are saying from industry. But I know that a lot, not all, but a lot of the push for experiential
+education is come out of the academic side. It's through seeing other schools that have done that sort of thing. And so, like other
+MIT engineering program, for example, that does a lot of experiential hands on client based like projects and all of this was was
+actually the driving force behind one P. 10 in the Bio Med program, right? And and the whole 1P-10 environment thing was was pretty
+successful and so they decided to to stretch it out to the rest of first year engineering. The apprehension there was that people
+might not be as interested in that as a first year experience. Coming out of high school, but they might be intimidated by the project
+based environment about being in groups all the time instead of the typical course structure. And so there was a little apprehension
+there. I think we've shown that that. Isn't really a problem, at least not a not not in this cohort. I suppose you know, going through
+this year, the barriers to implementation are are pretty easy to pick off, right? So the first year level, it's easy enough content
+wise, even though also Saltley slip in that there's no Kevin Chin. Anything that happens in first year, so but otherwise it's very
+easy content wise to integrate these things. The issue with first year is resource is space. You know management of TAS and money
+and you know labs and design spaces and that sort of thing. I think in terms of the actual learning outcomes it it came together
+very nicely because the team was working on it for a solid like 2 years so. So I think the content is fine. But the main challenge
+for rolling this out is definitely resource is now that's not to be confused with experiential education in higher. Here's a in your
+second, third or fourth year. Because they are also rolling out. I don't know if you're aware of this new 2P X three and three P X3
+which are supposed to be the continuation of 1P13 in higher levels themed toward engineering, economics and whatever. Actually, the
+two the second year is communications and the third year is economics. The main difficulty there for implementation is finding common
+ground for integrated design projects of higher levels while still achieving the learning outcomes of all the departments. Are all of
+the disciplines, but they all have to work together. That's actually extremely hard because you know you could put a Kenny within ECE
+and like there is absolutely no way that one could do a circuits based design project. Or the other could do a pump network design,
+but there's just no way, right? So you need to find a way because the further away you get from first year, the more specialized your
+knowledge becomes, and that's the challenge that they face right now in two P, X3, which is coming out this year now. Luckily for
+them two PX is like a communications issue class, so everything is kind of structured around that, so I don't think it's going to be
+as technically in depth. But the department interest is very much. We want technical skills as well as the communication skills out
+of these integrated learning design courses. So I see that as being the biggest challenge in that going forward. Yeah, that's great,
+thanks. 
+ [Q2] From your perspective, what role has engineering academia played influencing and influencing industry? And if you see
+that changing in the future. Or is industry? Yeah so you mean like from a research perspective or from an undergraduate educations
+perspective? Yeah I guess for my undergraduate, yeah. How has engineering academia influenced? Some industry it really. 
+ [Q2A]
+Really hasn't actually. I think that that maybe something as we go forward is that it's starting to, or at least the feedback loop
+of what industry wants, which is more of this. Like, you know, kind of a broader knowledge with a little bit more design experience
+and critical thinking, which is something that students desperately lack. Obviously, no offense to the present party, but like you
+know, generally speaking, when people come out of an undergraduate program there, like our program, is criticized as having people
+that have like learned all these courses but don't have. Open minds and don't know how to take instruction and or aren't able to,
+you know, research things independently and learn on the job. Now that's something that is improving with these design courses. In
+particular, I think, or those integrated learning courses. And I I really do see, I really do see us just putting out more qualified
+individuals. Kind of ready to take on the current engineering role as we go forward as opposed to a little bit more focused on the
+technical science, but less so in the overall thrust of what engineering is right, which is to serve and protect the public. And their
+interests, and obviously be able to be a functional member of society in that regard. Unfortunately, I don't think I could like the
+undergraduate academia has influenced industry, it's industry that's influencing the undergraduate curriculum. No question about that,
+but I think there's maybe something about that a little bit later on anyway, so I'll say that answers for that. OK yeah, cool yeah,
+I'll get the next one. 
+ [Q3] So we've been asking this question to the other people we've been interviewing as well, so we just want
+to get an idea from your kind of your colleague space in chemical engineering. To what extent does your faculty of chemical engineering
+sort of carry out industry related projects versus more? I guess, quote unquote, pure research projects? 
+ [Q3A] Sure, yeah. Yeah,
+so so there again, there's two ways to answer that. There's the undergrad side, then is the grad sign, which the grand side with
+industry approach is probably more applicable in terms of undergrad, and we typically offer industry related projects through our
+new Capstone stream, which is, which is a consulting capstone, and all students have to take that now. That's been a recent change,
+again, trying to align a little bit more with what students want and what industry wants on that. When it comes to research projects
+in particular, I would say that the Chemistry department actually doesn't. Pretty good job of aligning its interests with industry, so
+we have a lot of faculty members in like wastewater treatment. David Latulippe for example, or Charles Dillon Way who work explicitly
+with a bunch of wastewater startups and that sort of thing. In order to do that. Obviously on the more meter applied medicine side,
+we have a little bit more theoretical stuff, but we got a lot of projects. For example, recently in those fields working with mass
+producers and fabricators and those types of people, now I would say that the most. Industry related projects that we have is through
+the M ACC. The McMaster Advanced Control Consortium, which is the largest controls an industry networking consortium and research
+consortium in Canada. It's got like you know, 25 member companies. Honeywell practice their arsenal Dofasco Xerox like just choose
+some big names and Corning and they they work explicitly. A lot of those faculty members. NASCAR Swartzen Konma holiday work. On
+industry projects with those companies, so so those are all you know, process intensification. Those are a little process control
+based and that sort of thing. So I would say probably 5050 industry projects to to research projects in the important. That's cool,
+yeah, I know. In my department computing and software are control courses that we've had our our professor. Doctor Morrisville
+has often said that the chemical engineers are the OG's of the of the control engineering space, and they're really what they're
+doing. Deeply happy to hear that. It's also we're also the oh geez of optimization, but nobody ever really thinks about us that
+way. Or supply chains. Sort of management, and that sort of thing. But anyway, I'm glad it makes me happy to hear that. 
+ [Q4] Yeah,
+OK, so kind of a fun one here. Can you think of a time in which you were surprised by how some piece of engineering was conducted
+in industry? Maybe that would be something that industry does effectively? That wouldn't really be considered best practice,
+but from an academic perspective or just a surprise in general.
+ [Q4A] Yeah, I absolutely so let me tell you. In Kenji at least,
+there is a an overarching theme of if it ain't broke, don't fix it so old equipment's you know things that aren't efficient control
+strategies that are just blatantly inefficient but you know, do I want to shut down the plant that's making me $150,000 a day in
+order to like, you know, try this new control scheme that an academic is thought up because. Mathematically, right? So the thing
+about the the academic rank is this, although theoretically this is better, right? But practically is it better an I find that
+something that industry really resists is trying new stuff in that regard, and also a lot of heuristics based design like a lot of
+heuristics based design. Where is it a chemical engineering student like Michael might be in heat transfer class and he's like OK,
+design this heat exchanger to achieve this thing and he'll go through and do some material selection. Do some shell passes in some
+area calculations and whatever. Probably integrate some nonlinear heat capacity 'cause he's a good student like Michael. Thank you
+and then we would have and then we would arrive at a design and then in industry they'll just say like. You know we used this heat
+exchanger for something that was very close to that, and it was bigger than it needed to be, so we'll just use the same one. Just
+give me another one of those right? And like. So I would say something that industry definitely does. That works really well for them
+is experience based design or like you know I did this before so I know what I'm doing instead of using modern tools. In that sort
+of thing, a lot of back of the envelope calculations and then a lot of real time adjustments in calibrations, which can be pretty
+wasteful. But experience is the. Pinnacle of what you need in order to make that work right? So that's probably the most in terms
+of the process design and chem in specific. That would be my my answer there for sure, and I think that's also by the way something
+that students need to. That's why it's so good that we have co-ops and stuff. That's what students need to be exposed to, at least
+in our curriculum before they go out in industry so that when they go out into industry and they're just like you know. Just size
+this thing and they get up some old textbook and start working on it and the managers like no no. Look up an old invoice and like
+tell me how much it was or something that they're not blown away by this. Gotcha, yeah it makes sense. 
+ [Q5] I just wanted to ask
+just through your experiences with either conducting research or just being involved in like an engineering project with an industry
+like what have you found is the most crucial step to get right within, like that research or engineering process that you've been
+through. Like just for example, like in my courses within like software engineering like we haven't drilled into our heads that
+you get the right requirements for a project and it's dairy up. Theoretically the most expensive part if you get it wrong. So yeah,
+I was just wondering what the most important step has typically been for. 
+ [Q5A] Yeah so. Oh yeah, I got a little feedback that was
+there. So in my in my experience, I think I would agree with that. Dhoni is the same idea. I think one of the hardest, time consuming
+and most important thing to do correctly is to get a project specification hammered out or memorandum of understanding hammered out
+or the exact outcomes in whatever contract form that. That's going to be. It takes a lot of time on the on behalf of the engineering
+team, working with whatever the client is in order to be able to come up with that sort of thing, especially if it's a. Resulting
+project I would say like. 1000%, right? Because it's not like that specifically, is super like expensive. It is right. Time is
+money. It is expensive, but what it really is right is that it's the base layer to a pyramid that you're building on top. Where
+if the basement is faulty then you can't get anywhere and like the last thing you want to do is not clearly communicate and have
+those correct specifications. Design something and then try to make it work and then it doesn't work because the specifications were
+wrong, right? So it just snowballs. It just snowballs from there, so in terms of definitely the most important, it's it's hammering
+out exactly what the requirements are, and then the back and forth with the client to make sure that you get it right. So I would
+for the most part just agree with what you said. 
+ [Q6] Awesome, I'm on my second question is like we're always taught within our
+courses to be very precise with like documentation and testing. I just wanted to ask if, like professionals don't go into as much
+detail or go into more detail in industry like I'd love to get your input on that. 
+ [Q6A] With regards to our department, there are
+certain things that our department does you know specifically, so you know the heat exact the heat exchanger design calculation. For
+example, like that would be something that our students would do a lot more specifically. Perhaps then then industry. But what industry
+definitely does better than the students is, you know, bills of materials, technical drawings, you know, like actual, like you know
+when I say bill of materials, I don't just mean like stuff like. Units, but I mean like pipelines and valves and fittings. And like
+all that sort of stuff because all of that is necessary. And another thing that they'll do is like they'll have very detailed in
+house built spreadsheets. For example, to do things like calculate pressure drops and make sure that pressure management is handled
+correctly in order to drive the fluid through the process. Whereas our students we don't really do that right like we got like some
+throwaway values of oh, you know, like just assume one atmosphere pressure drop through this unit and .1 atmosphere through this
+unit. And that's not sufficient for for proper engineering design, so something that the industry people will do a lot better as
+they will have a like. First of all that have a paper trail of who designed which piece. Now that always doesn't workout, I've got a
+bunch of friends that work at Hatch, for example. They're always banging their heads against the wall because like you know, they're
+waiting on something from someone else. So the distribution of Labor issue isn't really resolved in industry, but the accountability
+of who's responsible for what, especially if you need to put a stamp on it or something like that is considerably higher than the
+level of. Detail for a final design is lightyears beyond what we ever get to in in this curriculum for sure. Alright, awesome, thank
+you. Alright, hop in here. 
+ [Q7] So what qualities do you think are beneficial to studying or developing engineering theory? Do you
+think maybe those qualities are kind of different from actually applying them in practice? 
+ [Q7A] They are absolutely different in
+application that in practice, but that doesn't mean that the fundamentals aren't hugely important. OK, so like water? Beneficial
+I? I'll speak from from my background again, right? So so from Kevin. So some things that are super important is even just things
+like mass and energy balances. People take for granted how important it is to be able to do that, especially in an non steady state
+environment. And to be able to handle those dynamics so. Theoretically, super, super useful theoretically and let's just say let's
+use the PID controller as an example. Is it important for me theoretically to like go through a root locus procedure to, you know,
+hammer and nail in where those those polls are supposed to be in this closed loop transfer function? No, it's not. Is it important
+that I understand what I need to do to make sure the system is stable and how I can tell if it's going to be unstable and what good
+performances versus bad performance if I had to tune online, absolutely it is right, so it's not that the theory is not important,
+but when you apply it, it's your connection between the theory and the outcome that is the most important part because oftentimes
+they're not going to sit down with MATLAB, Simulink and mess around with a block flow diagram and industries just kind of the way
+it is. But the appreciation for what that is. Doing is is key right? Which is kind of why in our curriculum we move towards the
+nitty gritty engineering science to take course like thermal dynamics. You know, if they want to mix sucks because it's the attempt
+of engineers to reproduce the unreproducible, AKA explain the laws of nature. Not very easy and you like oh, this kind of sucks,
+but then you get to your process design where you use a simulator that does those thermodynamics for you, but you appreciate the
+fact that this is a necessary outcome and you also understand what is good. Model approximations in water that model approximations,
+which is which is very very valuable right? So I would say that the the industry application of theory is very broad, right? It's the
+you go around your education learning a bunch of trees and then you go to industry and they ask you to build your forest and they
+don't really care what the trees look like right? But the point is, is that you kind of in the back of your head, know what each
+little piece of this sort of thing does, and that makes for a good practicing engineer is an appreciation. Do you need to memorize
+navier Stokes equation in three dimensions for? Spherical fluid particles, no, but do you need to understand how you know pressure
+drops across corners and pipes is going to impact the ability for you to have this tank and then literally 2/3 of a mile away is
+where it needs to get to, and it actually isn't nothing. The pressure drop in that line. Yes, that is the important thing, right
+so? Awesome, thank you very much. I think that's all the questions I have. Does anyone else have any other pop up questions? I have
+a curiosity one. It's not on the list, I'm just kind of thinking of now. 
+ [Q8] So yeah, I'm quite ignorant. I mean I have Michaels
+here. Michael was my roommate for two years, but otherwise I'm totally ignorant about chemical engineering other than my professor
+complementing them as I mentioned. What are so? I guess for my side of things like in the computing department, they're always
+talking about how I mean, this is obviously happening. How computing is basically making its way into every sort of ever any legacy
+industry that didn't have some form of digital computation going on. It's it's, you know, all the boundaries are being pushed in that
+direction. What what effect? What's like? The biggest effect that has had on on kind of chemical engineering and process control and
+design and stuff? What do you think is the biggest way that's being pushed right now? 
+ [Q8A] Yeah, I'd say that definitely that's a
+great. That's a great comment, something that we've been trying to communicate in their undergrad curriculum for a couple of years
+now. Is it like images now? Also, you know, simulations and control design, and like you know, using computers to solve problems
+because modern problems require modern solutions. I say it over and over again, and. And you know. Using an old school vapor liquid
+equilibrium chart on a printed on a piece of paper and ruler it just, you know, just doesn't have its place anymore, so we need to
+update the curriculum. As somebody involved with the M ACC, I see countless applications of things like real time optimization. So
+maybe you have Poly generation plants that know how to make you know they can take an input of something like maybe bio mass or
+coal or natural gas depending on where you are and you can make liquid fuels with zero CO2 missions. You can make power, you can
+make heat, you know you can make you can. You could do thermal chemical storage and all of this is encapsulated in an architecture
+that's kind of like. A global optimization strategy where you've got kind of the the year long plan informing the month long plane,
+informing the weeklong plan, informing the hour to our plan, and then you get the PID controllers that do things. Second, a second
+right? And all of this is layered together in a massive architecture that is trying to identify things like market trends and those
+parameters are updated in real time. Real time optimization and then they are passed out as requested. I have requested products or
+requested operational dynamics. All the time, right? And and and plans updated and plans change what has been accompanied with. That
+is a new kind of push towards flexible design. So not just flexible design of the control systems, but you need to be able to handle
+those. And to be able to handle those changes with the actual units with the actual plant in that sort of thing. So like I can't just
+like turn on or off this industrial piece of equipment that literally takes 3 days to start, right? I can just turn it on and off
+every three hours or something like that. So I need to work that into it. And that brings a lot of exceptions. A lot of interesting
+problems into that sort of thing. Another good example of how that's working out is with distributed power and energy. So we got
+wind turbines. We've got solar panels. We've got nuclear plants. We've got gas plants we've got. You know bio mass incinerators
+and they're all over the place with what they're producing, so the question becomes, how do you design the control structure or
+architecture to be able to utilize that at the community scale at the provincial scale at the national scale so that you don't waste
+all of this garbage right? Well, now it's not garbage, it's valuable energy, right? But, but these are definitely directions and then
+kind of your lowest hanging fruit that we even touch on at the undergraduate level is like integrated. We called Gray box modeling. So
+like a PID controller is a very black box style of controller it has. No concept of what's going on in the process at all. It's just
+like where I'm at where I want to be. Go to the thing being, whereas we're working a little more with data driven modeling and first
+principles, modeling to do things like model predictive control which is actually working its way into industry where you actually
+use those first principle models. Unfamiliar with MPC at all, but the idea is that you have a mathematical model that predicts the
+behavior of a system for a given set of inputs, and then you actually apply those inputs. Knowing what the future outcome is going to
+be and you kind of update that in real time as well, and so all of these kind of cutting edge. I mean MPC isn't even cutting edge,
+but it's cutting edge for industry. If there's a good example like MPC is like a 30 year old idea and it's now just making his way to
+like the mainstay in industry, and that's typically about writing kanjis, we usually get about 30 year lag between what they're coming
+up within academia and where it's going in industry. And you know, as we go towards. Three 4.0 with easy data acquisition, right like
+tons of data everywhere. Integrated units that can communicate with each other in, like the implementation of all of these things
+is going to be something that were we're looking to get into in the near future, no doubt. That's cool, yeah. 
+ The Mechatronics
+curriculum just added record is called intelligent and Predictive Control I think. And one of the one of the things, well, yeah,
+I took that course in the fall term and it's shocking how much I I'm already forgetting about that. But one of the things we talked
+about was model predictive control and state space modeling and Kalman filtering. All that kind of thing and. It was, yeah it was
+interesting but. Yeah, that's the stuff that you guys do in undergrad chemical inch chemical and stuff is that it's still more of like
+a grad student thing or. Yeah, good good question. So we do MPC and stuff at the undergrad level at least introduction to linear MPC
+and state space. I don't know Michael is taking four deals 3 but so like that's a linear state space in model predictive control and
+digital controls. Course. Sequel to our standard controls course or alcohol at the analog controls course. And that's typically pretty
+popular. It's it's kind of a couple of rough offerings with some sessional, so you know, but but it's a good. It's a good course,
+and then when it comes to things like nonlinear MPC Kalman filters, observers I don't know if you talk about luenberger, observers, or
+anything that picture that's a little bit more still in Canada Gran topic, but as we just learned this year, I mean Michael took four
+H 03, which is just chock full of topics then. I took when I was in grad school because it was never offered at the undergrad level
+and everybody proved to me that they can do it at the undergrad level, right? You can't get into it in quite as much detail so that
+things like latent variable methods and neural networks and all that sort of stuff like you can get an introduction at the undergrad
+level. So as the topic start to become more applicable in industry, you find those more high end topics getting filtered into the
+undergrad curriculum because that's now what our students need going into industry, right? So I'm glad you got to take a course like
+that. I hope it was good. Yeah, OK, that's that's very interesting that those questions weren't really related to our project, but I
+was just kind of curious. So thank you. 
+ 
+ Wrap up: Inside anything else I can do for you fellows, or are we going to? Michael. Sorry
+Bros yeah, I think that's about it for. Everybody, yeah. Does anybody else have any questions? I will offer my thanks to Jake. Nice
+for his time on Friday on a Friday afternoon. To squeeze this in, so we appreciate it, I think we got some really good really good
+kind of talks, points to talk about in our report. So thanks to Jake and maybe maybe some of us will collide with you at some point
+in our last year, but maybe not, but either way. Yeah, so thank you and you know when you're in your final year and in four a. Of
+course an should you need any follow up information or want to chat again about things related to four. If you missed anything more
+than happy to meet up, I don't know when this is. Do it over the weekend or early next week if you need to ask any follow up so I can
+also answer for email. OK OK great. It's due tomorrow night. No no no. Sorry, just let me know if you need anything else from us and
+otherwise have a great weekend. Thanks. Take care. Got it. 
+ Sweet. OK folks, that that all went pretty good washing in Jake I think
+yeah. Yeah, well done I guess, but I don't want to do anymore work today. No, no, I'm I'm. I'm done so I got some plans so. OK cool,
+so how do you guys want to go? No. Do you guys like wanted like should our next meeting be on Tuesday or something earlier? Yeah,
+what sort of go ahead, John, I don't really have any ideas. I was going to say maybe we meet over the weekend at least. Just skim
+over everything and just draw similarities and contrasts between the different perspectives and kind of once we figure out what
+we've got, we can look at. Collecting resource is that, or citations that support or counter those arguments, and we can just kind
+of expand from there once we review everything. Yeah, or at least like plan out kind of. Who wants to look into what for the lit
+review. Basically, like I like. I like this idea. I would enjoy doing some research on that or something like that. OK, yeah, we
+can do that. I don't know what to do Sunday. Yeah, OK, yeah sounds good. They like like mid afternoon maybe. Yeah. Yeah so 2. Yeah,
+like with three be good too. Yeah 2:30 or three. Rehab is good with I, you know, you know me, I've gotta give like the something or
+something. 2:30 or three, never specific. I like OK. OK cool, thanks a bunch dudes and we will see you will see you then. Oh I later
+I guess.
+ 
+ 
+ 
